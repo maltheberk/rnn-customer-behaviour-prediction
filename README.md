@@ -205,13 +205,3 @@ for seed in [1, 2, 3, 4, 5]:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Citation
-
-```bibtex
-@software{rnn_customer_prediction,
-  title={RNN Customer Behavior Prediction},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/rnn-customer-prediction}
-}
-```
